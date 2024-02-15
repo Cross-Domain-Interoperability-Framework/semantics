@@ -43,4 +43,19 @@ Decide how you’re going to represent your vocabulary. This could range from a 
 
 REMEMBER, all of this is predicated on starting with a clear scope for your vocabulary and clearly defining the concepts in that scope. From these text definitions, representations of any complexity can be constructed if they are clear and logically coherent.
 
+## sidebar
 
+As an example of the problems, lets look at the definitions of 'landslide'.   [landslide](https://www.eionet.europa.eu/gemet/en/concept/4668) in the General Multilingual Environmental Thesaurus (GEMET)  > "Mass-movement landforms and processes involving the downslope transport, under gravitationary influence of soil and rock material en masse."
+
+and in the Open Biological and Biomedical Ontologies (OBO) Library guidelines in the Environment Ontology (ENVO) class for 
+
+["landslide process"](http://purl.obolibrary.org/obo/ENVO_01000692) > A landslide is a process whereby a large mass of earth and rocks moves down a hill or a mountainside.
+ or 
+ 
+["landslide"](http://purl.obolibrary.org/obo/ENVO_00000520) > A mound of earth material, at the base of a slope and the associated scoured area.
+
+The GEMET defintion includes landform and process; in ENVO there are separate concepts for the process and the landform. The ENVO process definition cross references the GEMET definition.
+
+Both of these definitions do not entertain 'landslide' as an event, which is another common usage. Semantic interoperability would require distinguishing 'landslide' as a geomorphic feature (landform), process (one kind of mass-wasting), or event.
+
+Consider-- 'landslide hazard' is the probability of a landslide event in some place; assessment of this hazard would be based on the occurrence of 'landslide landforms' in the area, and modeling based on understanding of the physiography and underlying geology along with a 'landslide process' model. 
