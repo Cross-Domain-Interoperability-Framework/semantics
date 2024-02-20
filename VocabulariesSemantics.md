@@ -2,7 +2,7 @@
 
 ## Introduction:
 Communication is based on mutual understanding of the binding between words (labels) and concepts. 
-In human language it is not unusual to have concepts that might bind to multiple words (synonymy), and words that might bind to different concepts (polysemy)
+In human language it is not unusual to have concepts that might bind to multiple words (synonymy), and words that might bind to different concepts (polysemy).  
 Logic and reasoning operate on concepts. Humans can navigate the ambiguity inherent in natural language; but for computers this is difficult. Automated computation systems require unambiguous one to one binding between concepts and words. Of course, in a computer a word is just a bit stream.  The purpose of the semantic artifacts under consideration is to establish binding between the word/bit streams used by the computer and concepts that humans use to understand the world and make decisions.
 
 In this framework, here’s a view of the semantic ladder:
